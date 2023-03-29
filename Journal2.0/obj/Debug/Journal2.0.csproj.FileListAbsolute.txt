@@ -1,0 +1,17 @@
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\bin\Debug\Journal2.0.exe.config
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\bin\Debug\Journal2.0.exe
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\bin\Debug\Journal2.0.pdb
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\App.g.cs
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0_MarkupCompile.cache
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0_MarkupCompile.lref
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0.g.resources
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2._0.Properties.Resources.resources
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0.exe
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Journal2.0.pdb
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Zver\Desktop\Project1\Journal2.0\Journal2.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
